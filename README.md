@@ -6,4 +6,5 @@
 * Save/ Load functionality is also present
 
 # FIles
-
+* kbc.java has the main code (including the GUI)
+* ques_bank.java is the code to write the quesions to a file
